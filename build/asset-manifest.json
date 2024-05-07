@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contador/build/static/css/main.98f69a22.css",
+    "main.js": "/contador/build/static/js/main.3bc47e82.js",
+    "index.html": "/contador/build/index.html",
+    "main.98f69a22.css.map": "/contador/build/static/css/main.98f69a22.css.map",
+    "main.3bc47e82.js.map": "/contador/build/static/js/main.3bc47e82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98f69a22.css",
+    "static/js/main.3bc47e82.js"
+  ]
+}
